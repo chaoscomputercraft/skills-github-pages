@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Chaos Computer Craft
 ---
 
 # Chaos Computer Craft
